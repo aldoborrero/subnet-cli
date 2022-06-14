@@ -70,3 +70,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
+
+replace github.com/ava-labs/avalanche-ledger-go => github.com/aldoborrero/avalanche-ledger-go v0.0.6-0.20220614145540-e207937eaef3
