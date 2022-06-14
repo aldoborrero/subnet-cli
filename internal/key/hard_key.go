@@ -11,7 +11,7 @@ import (
 	"github.com/ava-labs/subnet-cli/internal/codec"
 	"github.com/ava-labs/subnet-cli/pkg/color"
 
-	ledger "github.com/ava-labs/avalanche-ledger-go"
+	ledger "github.com/aldoborrero/avalanche-ledger-go"
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/utils/crypto"
 	"github.com/ava-labs/avalanchego/utils/formatting"
